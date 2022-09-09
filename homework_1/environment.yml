@@ -1,0 +1,10 @@
+name: homework-1
+dependencies:
+  - python
+  - pip
+  - pip:
+    - notebook
+    - numpy
+    - scipy
+    - scikit-image
+    - matplotlib
