@@ -7,6 +7,11 @@ This repository contains [Python](https://docs.python.org/3/tutorial/index.html)
 
 Here's a link to [the notebook for Homework 1](https://github.com/raj-magesh/pmvc-fa22/blob/main/homework_1/homework_1.ipynb)!
 
+## Warnings!
+
+- Colab will stop your runtime if it continues for too long, which means you may lose your work. Be sure to save your notebook often!
+- If you're on a Windows machine, you might face issues with the `.data` files in HW1 due to different line endings in Linux/MacOS (LF) vs Windows (CR+LF). Do contact me if you have trouble with this!
+
 ## Guide to Homework 1
 
 ### Setting up Colab
