@@ -1,0 +1,16 @@
+name: homework-2
+dependencies:
+  - python
+  - pip
+  - pip:
+    - notebook
+    - loguru
+    - tqdm
+    - requests
+    - numpy
+    - torch
+    - torchvision
+    - torchdata
+    - scipy
+    - matplotlib
+    - Pillow
